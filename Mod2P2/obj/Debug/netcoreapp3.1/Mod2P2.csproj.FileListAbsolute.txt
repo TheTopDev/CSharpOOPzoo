@@ -1,0 +1,13 @@
+C:\Users\Tooks\source\repos\Mod2P2\Mod2P2\bin\Debug\netcoreapp3.1\Mod2P2.exe
+C:\Users\Tooks\source\repos\Mod2P2\Mod2P2\bin\Debug\netcoreapp3.1\Mod2P2.deps.json
+C:\Users\Tooks\source\repos\Mod2P2\Mod2P2\bin\Debug\netcoreapp3.1\Mod2P2.runtimeconfig.json
+C:\Users\Tooks\source\repos\Mod2P2\Mod2P2\bin\Debug\netcoreapp3.1\Mod2P2.runtimeconfig.dev.json
+C:\Users\Tooks\source\repos\Mod2P2\Mod2P2\bin\Debug\netcoreapp3.1\Mod2P2.dll
+C:\Users\Tooks\source\repos\Mod2P2\Mod2P2\bin\Debug\netcoreapp3.1\Mod2P2.pdb
+C:\Users\Tooks\source\repos\Mod2P2\Mod2P2\obj\Debug\netcoreapp3.1\Mod2P2.csprojAssemblyReference.cache
+C:\Users\Tooks\source\repos\Mod2P2\Mod2P2\obj\Debug\netcoreapp3.1\Mod2P2.AssemblyInfoInputs.cache
+C:\Users\Tooks\source\repos\Mod2P2\Mod2P2\obj\Debug\netcoreapp3.1\Mod2P2.AssemblyInfo.cs
+C:\Users\Tooks\source\repos\Mod2P2\Mod2P2\obj\Debug\netcoreapp3.1\Mod2P2.csproj.CoreCompileInputs.cache
+C:\Users\Tooks\source\repos\Mod2P2\Mod2P2\obj\Debug\netcoreapp3.1\Mod2P2.dll
+C:\Users\Tooks\source\repos\Mod2P2\Mod2P2\obj\Debug\netcoreapp3.1\Mod2P2.pdb
+C:\Users\Tooks\source\repos\Mod2P2\Mod2P2\obj\Debug\netcoreapp3.1\Mod2P2.genruntimeconfig.cache
